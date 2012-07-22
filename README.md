@@ -24,7 +24,7 @@ Alejandro El Informático
 Usage
 ----------------------------------------
 
-`$ cquery -h`
+`$ cli -h`
 
 TODO
 -------
